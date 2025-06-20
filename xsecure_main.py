@@ -54,7 +54,7 @@ DEFAULT_CONFIG = {
     'output_formats': ['json', 'html', 'pdf'],
     'wordlist_path': 'wordlists/common.txt',
     'testssl_path': 'testssl.sh',
-    'gemini_api_key': 'AIzaSyAaYY2J9Q0xGoPx1SHqWuhVL11udYS5WkQ',  # Replace with actual API key
+    'gemini_api_key': 'ADD YOU GEMINI API',  # Replace with actual API key
     'payloads': {
         'xss': [
             "<script>alert('xss')</script>",
